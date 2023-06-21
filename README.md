@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me  
-       https://lk.linkedin.com/in/heshan-hansaka-samarasekara-9378a4256
-       heshanha002@gmail.com
+      * https://lk.linkedin.com/in/heshan-hansaka-samarasekara-9378a4256
+      * heshanha002@gmail.com
        
         
     
