@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JSHhansaka
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Software Engineering 
 - 📫 How to reach me  
       * https://lk.linkedin.com/in/heshan-hansaka-samarasekara-9378a4256
       * heshanha002@gmail.com
